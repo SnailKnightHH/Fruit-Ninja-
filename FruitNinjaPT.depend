@@ -1,0 +1,238 @@
+# depslib dependency file v1.0
+1579288034 source:g:\ics4u1\programs\final\fruitninjapt\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	<ctime>
+	<iostream>
+	<string>
+	<cmath>
+
+1567531916 g:\ics4u1\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1567531917 g:\ics4u1\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1567531917 g:\ics4u1\mingw\include\winuser.h
+
+1567531917 g:\ics4u1\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1567531916 g:\ics4u1\mingw\include\winerror.h
+
+1567531915 g:\ics4u1\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1567531917 g:\ics4u1\mingw\include\_mingw.h
+
+1567531905 g:\ics4u1\mingw\include\basetsd.h
+
+1567531913 g:\ics4u1\mingw\include\pshpack4.h
+
+1567531912 g:\ics4u1\mingw\include\poppack.h
+
+1567531917 g:\ics4u1\mingw\include\winver.h
+
+1567531906 g:\ics4u1\mingw\include\dde.h
+
+1567531906 g:\ics4u1\mingw\include\dlgs.h
+
+1567531905 g:\ics4u1\mingw\include\commctrl.h
+	<prsht.h>
+
+1567531913 g:\ics4u1\mingw\include\prsht.h
+
+1567531916 g:\ics4u1\mingw\include\windef.h
+	<winnt.h>
+
+1567531916 g:\ics4u1\mingw\include\wincon.h
+
+1567531916 g:\ics4u1\mingw\include\winbase.h
+
+1567531916 g:\ics4u1\mingw\include\wingdi.h
+
+1567531917 g:\ics4u1\mingw\include\winnls.h
+
+1567531917 g:\ics4u1\mingw\include\winnetwk.h
+
+1567531917 g:\ics4u1\mingw\include\winreg.h
+
+1567531917 g:\ics4u1\mingw\include\winsvc.h
+
+1567531905 g:\ics4u1\mingw\include\cderr.h
+
+1567531906 g:\ics4u1\mingw\include\ddeml.h
+
+1567531909 g:\ics4u1\mingw\include\imm.h
+
+1567531910 g:\ics4u1\mingw\include\lzexpand.h
+
+1567531911 g:\ics4u1\mingw\include\mmsystem.h
+
+1567531911 g:\ics4u1\mingw\include\nb30.h
+
+1567531913 g:\ics4u1\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1567531913 g:\ics4u1\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1567531905 g:\ics4u1\mingw\include\basetyps.h
+
+1567531914 g:\ics4u1\mingw\include\rpcdcep.h
+
+1567531914 g:\ics4u1\mingw\include\rpcnsi.h
+
+1567531914 g:\ics4u1\mingw\include\rpcnterr.h
+
+1567531908 g:\ics4u1\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1567531914 g:\ics4u1\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1567531913 g:\ics4u1\mingw\include\pshpack2.h
+
+1567531917 g:\ics4u1\mingw\include\winperf.h
+
+1567531905 g:\ics4u1\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1567531915 g:\ics4u1\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1567531912 g:\ics4u1\mingw\include\objfwd.h
+	<basetyps.h>
+
+1567531917 g:\ics4u1\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1567531914 g:\ics4u1\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1567531914 g:\ics4u1\mingw\include\rpcnsip.h
+
+1567531917 g:\ics4u1\mingw\include\winspool.h
+
+1567531917 g:\ics4u1\mingw\include\winsock2.h
+	<windows.h>
+
+1567531917 g:\ics4u1\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1567531911 g:\ics4u1\mingw\include\mswsock.h
+
+1567531912 g:\ics4u1\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1567531912 g:\ics4u1\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1567531915 g:\ics4u1\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1567531912 g:\ics4u1\mingw\include\objidl.h
+	<objfwd.h>
+
+1567531905 g:\ics4u1\mingw\include\cguid.h
+
+1567531912 g:\ics4u1\mingw\include\olectlid.h
+
+1567531912 g:\ics4u1\mingw\include\oleauto.h
+	<oaidl.h>
+
+1567531912 g:\ics4u1\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1567531912 g:\ics4u1\mingw\include\oleidl.h
+	<objfwd.h>
+
+976684920 g:\ics4u1\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567531922 g:\ics4u1\mingw\include\gl\gl.h
+
+1567531922 g:\ics4u1\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1579288036 source:c:\web downlaods\codeblocks\programs\performance task david hu\final\fruitninjapt\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<vector>
+	<ctime>
+	<iostream>
+	<string>
+	<cmath>
+
